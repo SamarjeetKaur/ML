@@ -1,3 +1,4 @@
 Scalar: single number
 Vector: Array
 Matric: 2D array
+Tensors: Array with more than two axes
