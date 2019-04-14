@@ -1,0 +1,4 @@
+https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e
+
+New weight = old weight — Derivative Rate * learning rate
+>Now several weight update methods exist. These methods are often called optimisers. 
